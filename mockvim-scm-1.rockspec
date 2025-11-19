@@ -1,7 +1,7 @@
 package = "mockvim"
 version = "scm-1"
 source = {
-   url = "git+https://github.com/YOUR_USERNAME/mockvim.git"
+   url = "git+https://github.com/tenfyzhong/mockvim.git"
 }
 description = {
    summary = "A Lua library to mock the Neovim vim global object.",
@@ -10,7 +10,7 @@ description = {
       by mocking the global `vim` object, including recursive functions,
       stubs, and call verification.
    ]],
-   homepage = "https://github.com/YOUR_USERNAME/mockvim",
+   homepage = "https://github.com/tenfyzhong/mockvim",
    license = "MIT"
 }
 dependencies = {
