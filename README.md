@@ -12,6 +12,14 @@ MockVim is a lightweight Lua library designed to mock the Neovim `vim` global ob
 
 ## Installation
 
+### Using LuaRocks
+
+```bash
+luarocks install mockvim
+```
+
+### Manual
+
 Copy the `lua/mockvim` directory into your project's `lua` folder or add it as a dependency in your test setup.
 
 ## Usage
